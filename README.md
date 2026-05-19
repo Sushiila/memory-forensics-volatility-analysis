@@ -47,7 +47,7 @@ Reviewed process privileges and suspicious elevated permissions.
 
 ### Hidden Process Detection
 
-![Hidden Process Detection](03 - hidden-process-detection.png)
+![Hidden Process Detection]([03 - hidden-process-detection.png](https://github.com/Sushiila/memory-forensics-volatility-analysis/blob/2b718575ccb71198ae2f2b9cee04ab0bf2350ab8/03%20-%20hidden-process-detection.png))
 
 ### Suspicious Executable Analysis
 
