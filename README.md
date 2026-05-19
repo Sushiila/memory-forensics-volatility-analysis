@@ -49,7 +49,7 @@ Investigation screenshots uploaded within this repository demonstrate the forens
 
 ### Hidden Process Detection
 
-![Hidden Process Detection](01 - memory-process-overview.png)
+![Hidden Process Detection]([01 - memory-process-overview.png](https://github.com/Sushiila/memory-forensics-volatility-analysis/blob/fddb52e79ba3620f5142ba50ccf17cb0d859cf67/01%20-%20memory-process-overview.png))
 
 ### Suspicious Executable Analysis
 
