@@ -47,6 +47,18 @@ Reviewed process privileges and suspicious elevated permissions.
 
 Investigation screenshots uploaded within this repository demonstrate the forensic workflow and findings.
 
+### Hidden Process Detection
+
+![Hidden Process Detection](PASTE_IMAGE_LINK_HERE)
+
+### Suspicious Executable Analysis
+
+![Suspicious Executable](PASTE_IMAGE_LINK_HERE)
+
+### Network Connection Investigation
+
+![Network Analysis](PASTE_IMAGE_LINK_HERE)
+
 ## Interview Explanation
 
 This project demonstrates practical memory forensics using Volatility to identify suspicious processes, malware artifacts, and network indicators from memory captures. The goal was to simulate real-world incident response and threat investigation workflows.
