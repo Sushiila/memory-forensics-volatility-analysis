@@ -47,7 +47,7 @@ Reviewed process privileges and suspicious elevated permissions.
 
 ### Hidden Process Detection
 
-![Hidden Process Detection](PASTE_IMAGE_LINK_HERE)
+![Hidden Process Detection](03 - hidden-process-detection.png)
 
 ### Suspicious Executable Analysis
 
