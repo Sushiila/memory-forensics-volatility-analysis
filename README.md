@@ -47,11 +47,11 @@ Reviewed process privileges and suspicious elevated permissions.
 
 ### Hidden Process Detection
 
-![Hidden Process Detection]([03 - hidden-process-detection.png](https://github.com/Sushiila/memory-forensics-volatility-analysis/blob/2b718575ccb71198ae2f2b9cee04ab0bf2350ab8/03%20-%20hidden-process-detection.png))
+(https://github.com/Sushiila/memory-forensics-volatility-analysis/blob/2b718575ccb71198ae2f2b9cee04ab0bf2350ab8/03%20-%20hidden-process-detection.png)
 
 ### Suspicious Executable Analysis
 
-![Suspicious Executable](PASTE_IMAGE_LINK_HERE)
+(https://github.com/Sushiila/memory-forensics-volatility-analysis/blob/2b718575ccb71198ae2f2b9cee04ab0bf2350ab8/02%20-%20suspicious-executable-downloads.png)
 
 ### Network Connection Investigation
 
