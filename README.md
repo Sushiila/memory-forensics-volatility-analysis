@@ -49,7 +49,7 @@ Investigation screenshots uploaded within this repository demonstrate the forens
 
 ### Hidden Process Detection
 
-![Hidden Process Detection](PASTE_IMAGE_LINK_HERE)
+![Hidden Process Detection](01 - memory-process-overview.png)
 
 ### Suspicious Executable Analysis
 
