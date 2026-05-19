@@ -55,5 +55,5 @@ Reviewed process privileges and suspicious elevated permissions.
 
 ### Network Connection Investigation
 
-(https://github.com/Sushiila/memory-forensics-volatility-analysis/blob/f1bb04be4afab386c87fec50028a337ad508e36d/04%20-%20network-c2-connections.png))
+(https://github.com/Sushiila/memory-forensics-volatility-analysis/blob/f1bb04be4afab386c87fec50028a337ad508e36d/04%20-%20network-c2-connections.png)
 
